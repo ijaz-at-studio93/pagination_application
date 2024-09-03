@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211376122752",
+    "project_id": "test-a6e0e",
+    "storage_bucket": "test-a6e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211376122752:android:72a4d94c41e13057faef65",
+        "android_client_info": {
+          "package_name": "com.example.pagination_applicatoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5-oyint55cCoFC7gy3V5kUbbUiFcjk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
